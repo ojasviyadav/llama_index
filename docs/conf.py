@@ -75,3 +75,6 @@ html_js_files = [
 ]
 
 nb_execution_mode = "off"
+
+latex_engine = 'xelatex'
+
