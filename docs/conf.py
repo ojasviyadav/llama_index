@@ -24,7 +24,7 @@ with open("../llama_index/VERSION") as f:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 
-project = "LlamaIndex 🦙"
+project = "LlamaIndex "
 copyright = "2022, Jerry Liu"
 author = "Jerry Liu"
 
