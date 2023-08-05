@@ -6,8 +6,8 @@ sphinx:
 build:
   image: testing
 
-# NOTE: only build default HTML
-# formats: all
+formats:
+  - pdf
 
 python:
   version: 3.9
